@@ -29,3 +29,31 @@ body{
 .btn-size{
     width: 80px;
 }
+.order-btn{
+    background-color:white;
+border-color:#ff66b3;
+border-width:1px;
+border-radius: 5px;
+height: 24px;
+width:70px;
+color: #ff3399;
+margin:4px;
+cursor: pointer;
+}
+.order-btn:hover{
+    box-shadow:0px 0px 10px 1px  #ff3399;
+}
+.img{
+    border: 2px solid  #9494b8;
+}
+.card{
+    background-color: white;
+width:190px;
+height: 310px;
+padding: 20px 20px 40px 20px;
+border-radius: 10px 10px;
+border-style:solid;
+border-color:#f2f2f2;
+border-width:2px;
+margin:10px;
+}
