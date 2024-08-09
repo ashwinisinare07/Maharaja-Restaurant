@@ -1,13 +1,17 @@
 body{
-    background-color: #fffffe;
+    background-color:#ffff;
+    margin: 0;
+    padding: 0;
 }
 .main-heading{
     text-align: center;
  font-size: 40px;
     color: #ff5470;
+    margin-top:0;
    
 }
-.nav-bar{
+.container{
+    background-color:#e6f2ff;
 
 }
 .no-underline{
@@ -19,4 +23,9 @@ body{
     font-size: 15px;
     border-radius: 15px;
     padding: 10px;
+   margin: 10px;
+
+}
+.btn-size{
+    width: 80px;
 }
