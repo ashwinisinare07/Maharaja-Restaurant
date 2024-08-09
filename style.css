@@ -77,3 +77,11 @@ margin:10px;
 .info{
     font-size: 14px;
 }
+.card-container{
+        height: 800px;
+        padding: 30px 20px 40px 20px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        
+}
