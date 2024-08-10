@@ -1,25 +1,42 @@
 body{
-    background-color:	 #ffe0b3;
+    background-color: #ffe680;
     margin: 0;
     padding: 0;
 }
 .main-heading{
-    text-align: center;
+   
  font-size: 40px;
  font-family: 'Gupter';
     color: #000033;
     margin-top:0;
    
 }
-  
+.maharaja-img{
+    border-radius: 70%;
+}
+.heading-img{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.nav-bar{
+    text-align: center;
+}  
 .text-center{
     text-align: center;
     font-size: 20px;
     margin: 5px;
 }
+.container{
+    border-bottom: 3px solid  #33334d;
+}
 
 .no-underline{
     text-decoration: none;
+
+}
+.font{
+    font-family: 'Gupter';
 }
 .btn{
     background-color:#ff0000;
@@ -30,12 +47,13 @@ border-width:1px;
     border-radius: 15px;
     padding: 10px;
    margin: 10px;
+   color:white;
 
 }
 .btn-effect:hover{
     border-style:solid;
     border-color:white;
-    border-width:2px;
+    border-width:3px;
 }
 
 
@@ -71,17 +89,18 @@ border-width:2px;
 margin:10px;
 }
 .card-1:hover{
-    
-    box-shadow:0px 0px 7px 3px  #d9b38c;
+    background-color:#fffae6;
+    box-shadow:0px 0px 7px 3px #a3a3c2;
 }
 .info{
     font-size: 14px;
 }
 .card-container{
-        height: 800px;
+    background-color:	 #fff0b3;
+        height: 700px;
         padding: 30px 20px 40px 20px;
         display: flex;
         flex-wrap: wrap;
         justify-content: space-evenly;
-        
+    
 }
