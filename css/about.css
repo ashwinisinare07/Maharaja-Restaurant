@@ -5,5 +5,13 @@ body{
 }
 .about-us{
     background-color: #fff0b3;
-    height: 430px;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Gupter';
+       color: #000033;
+       margin-top:0;
+   
+       height: 400px;
+       padding:40px;
+
 }
