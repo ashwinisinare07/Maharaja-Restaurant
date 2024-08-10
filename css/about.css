@@ -6,12 +6,14 @@ body{
 .about-us{
     background-color: #fff0b3;
     text-align: center;
-    font-size: 30px;
+    font-size: 20px;
     font-family: 'Gupter';
        color: #000033;
        margin-top:0;
-   
-       height: 400px;
+       height: 350px;
        padding:40px;
 
+}
+.about-img{
+    border-radius: 50%;
 }
