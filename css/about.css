@@ -16,4 +16,11 @@ body{
 }
 .about-img{
     border-radius: 50%;
+
+}
+.img-container{
+    text-align: center;
+}
+.img-container:hover{
+    cursor: pointer;
 }
